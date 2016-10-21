@@ -8,4 +8,4 @@
 [![Build Status](https://travis-ci.org/richelbilderbeek/QMouseEventExample1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/QMouseEventExample1)
 [![codecov.io](https://codecov.io/github/richelbilderbeek/QMouseEventExample1/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/QMouseEventExample1?branch=master)
 
-QKeyEvent example 1: how to detect if a QWidget does something with a key press?
+QMouseEvent example 1: how to detect if a QWidget does something with a mouse press?
